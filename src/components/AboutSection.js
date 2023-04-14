@@ -6,7 +6,6 @@ import homeImg1 from "../img/home1.png";
 
 //Styled
 
-import styled from "styled-components";
 import { About, Description, Image, Hide } from "../styles";
 const AboutSection = () => {
   return (
@@ -19,10 +18,9 @@ const AboutSection = () => {
 
           <Hide>
             <h2>
-              your <span>dreams</span> come
+              your<span> dreams </span>come
             </h2>
           </Hide>
-
           <Hide>
             <h2>true.</h2>
           </Hide>

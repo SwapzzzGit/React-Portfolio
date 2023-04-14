@@ -15,10 +15,10 @@ const Nav = () => {
           <Link to="/About">About Us</Link>
         </li>
         <li>
-          <Link to="/Contact">Our Work</Link>
+          <Link to="/Work">Our Work</Link>
         </li>
         <li>
-          <Link to="/Work">Contact Us</Link>
+          <Link to="/Contact">Contact Us</Link>
         </li>
       </ul>
     </StyledNav>

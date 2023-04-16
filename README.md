@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-Deployment : https://portfolio-peach-ten-12.vercel.app/
+Deployment : https://portfolio-git-master-swapzzzgit.vercel.app/About
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

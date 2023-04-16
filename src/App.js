@@ -3,6 +3,7 @@ import React from "react";
 import AboutUs from "./pages/AboutUs";
 import ContactUs from "./pages/ContactUs";
 import OurWork from "./pages/OurWork";
+import MovieDetail from "./pages/MovieDetail";
 //Global Styles
 import GlobalStyle from "./components/GlobalStyle";
 //Nav
@@ -19,6 +20,7 @@ function App() {
       <Routes>
         <Route path="/About" Component={AboutUs} />
         <Route path="/Contact" Component={ContactUs} />
+        <Route path="/Work/:id" Component={MovieDetail} />
         <Route path="/Work" Component={OurWork} />
       </Routes>
     </div>
